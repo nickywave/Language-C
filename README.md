@@ -1,1 +1,2 @@
-# Languge-C
+# Language-C
+Learning  C 
